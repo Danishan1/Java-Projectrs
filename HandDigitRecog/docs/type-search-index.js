@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"HandDigitRecog","l":"HandDigitImageLoader"},{"p":"HandDigitRecog","l":"HandDigitMainPanel"},{"p":"HandDigitRecog","l":"HandDigitRecoggImageFile"},{"p":"HandDigitRecog","l":"HDLabelFile"},{"p":"HandDigitRecog","l":"HDRecogFile"}]
